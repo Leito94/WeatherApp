@@ -1,7 +1,7 @@
 # WeatherApp
 Get live weather data  from anywhere in the world.
 
-By choosing a country and one of its cities the app provides the user with a weather forecast. The data is webscraped live. 
+By choosing a country and one of its cities the app provides the user with a weather forecast. The data is webscraped on the spot. 
 
 The icons are doesnloaded from flaticon.com.
 
